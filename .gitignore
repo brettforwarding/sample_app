@@ -14,9 +14,10 @@
 /log/*.log
 /tmp
 
-# Ignore other unneeded files.<br />
-doc/<br />
-*.swp<br />
-*~<br />
-.project<br />
-.DS_Store<br />
+# Ignore other unneeded files.
+doc/
+*.swp
+*~
+.project
+.DS_Store
+bundler_stubs/
